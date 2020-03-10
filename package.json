@@ -1,0 +1,29 @@
+{
+  "name": "bs-lint-configs",
+  "version": "1.0.0",
+  "description": "This is bad",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bshin19/bs-stylelint-config.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bshin19/bs-stylelint-config/issues"
+  },
+  "homepage": "https://github.com/bshin19/bs-stylelint-config#readme",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-jest": "^23.8.2",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-sort-imports-es6-autofix": "^0.5.0",
+    "prettier": "^1.19.1",
+    "stylelint": "^13.2.1",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-prettier": "^1.1.2"
+  }
+}
