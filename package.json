@@ -6,15 +6,15 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bshin19/bs-stylelint-config.git"
+    "url": "git+https://github.com/bshin19/bs-lint-configs.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bshin19/bs-stylelint-config/issues"
+    "url": "https://github.com/bshin19/bs-lint-configs/issues"
   },
-  "homepage": "https://github.com/bshin19/bs-stylelint-config#readme",
+  "homepage": "https://github.com/bshin19/bs-lint-configs#readme",
   "dependencies": {
     "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.10.0",
